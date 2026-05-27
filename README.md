@@ -6,9 +6,11 @@
 
 <br/>
 
-My dad read "Programming in C" to me on the day I was born (true story), so when I say I've been learning to code my whole life, I mean it.
+My dad read "Programming in C" to me on the day I was born (true story), so when I say I've been learning to code my whole life, I mean it 🤓. 
 
-10 years later, that same dad gave me his Apple IIc and a book on BASIC, and I was instantly hooked.
+10 years later, that same dad gave me his Apple IIc and a book on BASIC, and I new immediately it was what I wanted to do for the rest of my life.
+
+Smash cut to now, and I'm a professional software developer with 20+ years experience, including a decade at Microsoft.
 
 **Currently:** Open to new opportunities   
 **Based in:** San Francisco bay area
