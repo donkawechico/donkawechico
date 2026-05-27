@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=hey%2C+I'm+Donnie+%F0%9F%91%8B;full+stack+developer;I+build+things+for+the+web" alt="header" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=32&pause=1400&color=39FF14&background=001100&center=true&vCenter=true&width=520&height=60&lines=%5DHELLO%2C+I%27M+DONNIE.;FULL+STACK+DEVELOPER.;BUILDING+FOR+THE+WEB." alt="header" />
 
 </div>
 
